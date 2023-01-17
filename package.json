@@ -1,5 +1,5 @@
 {
-  "name": "aws-sqs",
+  "name": "@dale/aws-sqs-library",
   "version": "0.0.1",
   "description": "",
   "author": "Diana Sofia Garcia Caicedo",
