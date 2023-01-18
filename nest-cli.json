@@ -1,5 +1,5 @@
 {
   "language": "ts",
   "collection": "@nestjs/schematics",
-  "sourceRoot": "libs/aws-sqs/client/"
+  "sourceRoot": "libs/aws-sqs-client/src"
 }
