@@ -10,6 +10,12 @@
     "type": "git",
     "url": "https://github.com/Sofiag8/sqs-library"
   },
+  "keywords": [
+    "nestjs",
+    "aws-sdk",
+    "aws-sdk/client-sqs",
+    "library"
+  ],
   "files": [
     "dist"
   ],
